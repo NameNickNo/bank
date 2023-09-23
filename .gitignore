@@ -1,0 +1,14 @@
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+
+### IntelliJ IDEA ###
+mvnw.cmd
+mvnw
+.mvn
+.gitignore
+.idea
+*.iws
+*.iml
+*.ipr
