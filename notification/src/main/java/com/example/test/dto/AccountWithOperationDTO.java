@@ -9,6 +9,6 @@ import java.util.List;
 @Data
 @NoArgsConstructor
 public class AccountWithOperationDTO implements Serializable {
-    private long accountNumber;
+    private long number;
     private List<AccountOperationDTO> balanceOperations;
 }
